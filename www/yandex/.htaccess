@@ -1,0 +1,3 @@
+AddType text/cache-manifest .cache
+ExpiresActive On
+ExpiresDefault "access"
